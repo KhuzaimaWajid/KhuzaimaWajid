@@ -90,16 +90,6 @@ Early concept prototype exploring structured code review and refactoring suggest
 
 ---
 
-## 🔥 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhuzaimaWajid&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 Feel free to reach out if you'd like to collaborate on projects or discuss tech!
@@ -113,3 +103,4 @@ Feel free to reach out if you'd like to collaborate on projects or discuss tech!
 <div align="center">
   <i>💻 "Building real-world tools with clean structure, reliability, and usability" 💻</i>
 </div>
+
