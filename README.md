@@ -95,7 +95,7 @@ Early concept prototype exploring structured code review and refactoring suggest
 Feel free to reach out if you'd like to collaborate on projects or discuss tech!
 
 - 🌐 Website: [khuzaima.dev](https://khuzaima.dev)
-- 💼 LinkedIn: [Muhammad Khuzaima Wajid](https://linkedin.com/in/muhammad-khuzaima-wajid)
+- 💼 LinkedIn: [Muhammad Khuzaima Wajid](https://www.linkedin.com/in/khuzaima-wajid/)
 - 📧 Email: wajidkhuzaima6@gmail.com
 
 ---
@@ -103,4 +103,5 @@ Feel free to reach out if you'd like to collaborate on projects or discuss tech!
 <div align="center">
   <i>💻 "Building real-world tools with clean structure, reliability, and usability" 💻</i>
 </div>
+
 
